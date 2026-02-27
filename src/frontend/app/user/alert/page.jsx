@@ -55,7 +55,7 @@ import {
   IconBattery,
 } from "@tabler/icons-react";
 import { useRouter } from "next/navigation";
-import MainFooter from "../../components/MainFooter.jsx";
+import MainFooter from "../../../components/MainFooter.jsx";
 import Link from "next/link";
 import Image from "next/image";
 import { useRef, useState, useEffect } from "react";
