@@ -559,7 +559,6 @@ export default function UserListPage() {
               radius="xl"
               color="blue"
               size="sm"
-              flex="center"
             />
           </Group>
         </Stack>
